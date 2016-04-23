@@ -1,0 +1,17 @@
+CLUSTAL W (1.74) multiple sequence alignment
+
+
+seq1                                aaaaa--tttttgggg----------------------------------
+seq2                                aaaaaggttttt--------------------------------------
+seq3                                -----ggtttttggggggggg-----------------------------
+seq4                                ---------tttggg------acgtagctagcatgcatc-g-atcgcgta
+seq5                                -------------------------agctagcatg--t-agcat-gc-ta
+
+
+seq1                                ------------
+seq2                                ------------
+seq3                                ------------
+seq4                                cgc-a-------
+seq5                                -gctagctagat
+
+

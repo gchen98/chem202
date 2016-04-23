@@ -1,0 +1,4 @@
+Seq1                                AEC
+seq2                                A-C
+seq3                                AEE
+seq4                                AE-

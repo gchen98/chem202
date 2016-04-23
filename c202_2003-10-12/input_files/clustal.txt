@@ -1,0 +1,7 @@
+seq1                                aaat--at--aa
+seq2                                aaat--a-ccaa
+seq3                                aaa-ccat--aa
+
+seq1                                aaatggctttca
+seq2                                aa--g--t---a
+seq3                                aa--ggctttca

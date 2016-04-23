@@ -1,0 +1,4 @@
+seq1                    EDCBA
+seq2                    E-CBA
+seq3                    ED-BA
+seq4                    ED--A

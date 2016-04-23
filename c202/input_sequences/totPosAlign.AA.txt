@@ -1,0 +1,3 @@
+seq1                                AAAAAAAAA
+seq2                                AAAAAAAAA
+seq3                                AAAAAAAAA

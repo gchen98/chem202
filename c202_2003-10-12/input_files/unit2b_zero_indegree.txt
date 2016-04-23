@@ -1,0 +1,33 @@
+
+Zero in-degree sorting algorithm:
+---------------------------------
+
+ I assume that each node has a unique ID from 1 up to |V|=n.
+ When the algorithm terminates, 'result' holds an ordering
+ of the nodes such that each node is to the right of all its
+ predecessors.
+
+ DATA STRUCTURES:
+ Array result[1..n];
+ Array d[1..n];
+ Stack S;
+ Int m;
+
+ BEGIN:
+  Foreach i in V:
+   d[i] <- #number of incoming edges to node i;
+   If d[i]=0:
+    S.push(i);
+
+  m<-1;
+  While S not _empty_:
+   i<-S.pop();
+   result[m]=i;
+   m=m+1;
+   Foreach k in (successor nodes of node i):
+    d[k]=d[k]-1;
+    if d[k]=0:
+     S.push(k);
+
+  RETURN result;
+ END.

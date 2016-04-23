@@ -1,0 +1,10 @@
+>seq1
+aaaaatttttgggg
+>seq2
+aaaaaggttttt
+>seq3
+ggtttttggggggggg
+>seq4
+tttgggacgtagctagcatgcatcgatcgcgtacgca
+>seq5
+agctagcatgtagcatgctagctagctagat

@@ -1,0 +1,4 @@
+>Hs#S374655 za95e07.s1 Homo sapiens cDNA, 3' end /clone_end=3
+AA
+>Hs#S1117589 qe54g01.x1 Homo sapiens cDNA, 3' end /clone_end=3'
+CC

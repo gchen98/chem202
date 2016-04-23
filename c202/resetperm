@@ -1,0 +1,5 @@
+find -type f|xargs chmod 660
+chmod 770 profileprob
+chmod 770 posteriorprob
+chmod 770 testharness.pl
+chmod 770 resetperm

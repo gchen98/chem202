@@ -1,0 +1,8 @@
+#!/bin/bash
+
+# if java_home is not set you may want to uncomment this out and set it
+#export JAVA_HOME=
+export PATH=$PATH:$JAVA_HOME/bin
+
+java -cp 202.jar edu.ucla.chem202.ExerciseSix $1 $2 $3 $4
+

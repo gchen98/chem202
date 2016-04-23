@@ -1,0 +1,107 @@
+
+Running test case for mike's alignment
+****************************
+1 1
+prob for match greater than delete
+*****SMK DEBUG*****
+Gonna use MatchTB: -7.309182616626138
+(i,j) 2 3 seq: ACC TotProbBase 10: -2.9245656157625737 TotProbBaseE: -6.734061190337854
+while y,x = 2,3 pMatch:-7.086052600881756
+while y,x = 2,2 pMatch:-7.609571409350705
+while y,x = 2,1 pMatch:-12.286964085851316
+while y,x = 1,0 pMatch:0.0
+breakin
+COLUMN:1 LETTER:C PROB=36504.8 x,y: 0,1 pMatch: 0.0 probE: -6.734061190337854
+COLUMN:2 LETTER:- PROB=0.17 x,y: 1,2 pMatch: -12.286964085851316 probE: -6.734061190337854
+COLUMN:2 LETTER:- PROB=18.09 x,y: 2,2 pMatch: -7.609571409350705 probE: -6.734061190337854
+COLUMN:2 LETTER:C PROB=30.54 x,y: 3,2 pMatch: -7.086052600881756 probE: -6.734061190337854
+*****SMK DEBUG DONE*****
+Cell has 17 fields.
+
+field fMatch of type double:
+   0.0  -1.58  -6.75 -11.91 
+   0.0  -5.64  -5.42  -9.13 
+   0.0  -6.31  -4.45  -6.75 
+
+field fDelete of type double:
+ -1.95    0.0    0.0    0.0 
+ -2.79  -2.58  -7.75 -12.91 
+ -4.05  -3.81  -7.07 -10.91 
+
+field bMatch of type double:
+ -8.15   -5.5  -3.14  -2.25 
+ -8.93  -5.34  -2.75  -1.81 
+-10.41  -5.98  -3.16  -0.34 
+
+field bDelete of type double:
+ -8.79  -5.45   -3.0   -2.1 
+ -9.49  -5.06  -2.24  -1.25 
+   0.0    0.0    0.0    0.0 
+
+field vMatch of type double:
+   0.0  -1.58  -6.75 -11.91 
+   0.0  -5.64  -5.43  -9.41 
+   0.0  -6.31  -4.49  -7.31 
+
+field vDelete of type double:
+ -1.95    0.0    0.0    0.0 
+ -2.79  -2.58  -7.75 -12.91 
+ -4.05  -3.84  -7.24 -11.23 
+
+field pMatch of type double:
+   0.0  -7.08  -9.89 -14.17 
+   0.0 -10.98  -8.17 -10.95 
+   0.0 -12.29  -7.61  -7.09 
+
+field pDelete of type double:
+-10.74    0.0    0.0    0.0 
+-12.29  -7.65  -9.99 -14.17 
+   0.0    0.0    0.0 -10.91 
+
+field xLoc of type int:
+     0      1      2      3 
+     0      1      2      3 
+     0      1      2      3 
+
+field yLoc of type int:
+     0      0      0      0 
+     1      1      1      1 
+     2      2      2      2 
+
+field matchTraceBack of type class edu.ucla.chem202.algorithm.hmm.HMMGlobalAligner$Cell:
+  null   null    0,1    0,2 
+  null    0,1    0,1    0,2 
+  null    1,0    2,1    2,2 
+
+field prevStateToMatch of type byte:
+* B I I 
+* D M I 
+* D D I 
+
+field deleteTraceBack of type class edu.ucla.chem202.algorithm.hmm.HMMGlobalAligner$Cell:
+  null   null   null   null 
+   0,0    0,1    0,2    0,3 
+   1,0    1,1    1,2    1,3 
+
+field prevStateToDelete of type byte:
+B * * * 
+D M M M 
+D D M M 
+
+field traceBackState of type byte:
+* * * * 
+* * * * 
+* * * * 
+
+field traceBack of type class edu.ucla.chem202.algorithm.hmm.HMMGlobalAligner$Cell:
+  null   null   null   null 
+  null   null   null   null 
+  null   null   null   null 
+
+field this$0 of type class edu.ucla.chem202.algorithm.hmm.HMMGlobalAligner:
+    
+    
+    
+****************************
+End test case for mike's alignment
+

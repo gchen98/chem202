@@ -1,0 +1,4 @@
+SCORE:90	(seq2)
+SCORE:62	(seq3)
+SCORE:36	(seq4)
+SCORE:85	(seq5)

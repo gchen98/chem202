@@ -1,0 +1,5 @@
+tst1                                AEC
+tst2                                A-C
+tst3                                AEC
+tst4                                AE-
+tst5                                A-C

@@ -1,0 +1,6 @@
+>seq1
+aaaa
+>seq2
+tttt
+>seq3
+aatt

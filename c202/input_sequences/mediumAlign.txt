@@ -1,0 +1,4 @@
+Seq1                                AECCDCDEC
+seq2                                A-CC-CDEC
+seq3                                AEEA-CAEA
+seq4                                AE-D--EDD

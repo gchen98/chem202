@@ -1,0 +1,15 @@
+<project name="c202" default="dist" basedir=".">
+ <property name="src" location="src"/>
+ <property name="build" location="build"/>
+ <target name="init">
+  <tstamp/>
+  <mkdir dir="${build}"/>
+ </target> 
+<target name="compile" depends="init">
+  <javac srcdir="${src}" destdir="${build}">
+  </javac>
+ </target>
+ <target name="dist" depends="compile">
+   <jar destfile="202.jar"  basedir="${build}"/>
+ </target>
+</project>

@@ -1,0 +1,12 @@
+Seq1                                AAATTT
+seq2                                AAATTT
+Seq3                                AAATTT
+seq4                                AAATTT
+Seq5                                AAATTT
+seq6                                AAATTT
+Seq1a                                AAATTT
+seq2a                                AAATTT
+Seq3a                                AAATTT
+seq4a                                AAATTT
+Seq5a                                AAATTT
+seq6a                                AAATTT

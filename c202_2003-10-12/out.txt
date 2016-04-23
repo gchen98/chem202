@@ -1,0 +1,14 @@
+seq1                                ------A----A------A--A----A---T---T----T------TTGG
+seq2                                ------A----A------A--A----AG-GT---T----T------TT--
+seq3                                ---------------------------G-GT---T----T------TTGG
+seq4                                TTTGGGA-CGTAGC---TAGCATGC-A---TCGATCGCGTACGCA-----
+seq5                                ------AGC-TAGCATGTAGCATGCTAGC-T--A--GC-TA-G-AT----
+
+
+seq1                                GG-----
+seq2                                -------
+seq3                                GGGGGGG
+seq4                                -------
+seq5                                -------
+
+

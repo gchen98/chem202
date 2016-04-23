@@ -1,0 +1,4 @@
+seq1                                AAAT--AT--AAAAATGGCTTTCA
+seq2                                AAAT--A-CCAAAA--G--T---A
+seq3                                AAA-CCAT--AAAA--GGCTTTCA
+CONSENS0                            AAAT--AT--AAAA--GGCTTTCA

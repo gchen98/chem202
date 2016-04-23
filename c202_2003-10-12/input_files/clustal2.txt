@@ -1,0 +1,4 @@
+Seq1       ABCDE
+Seq2       ABC-E
+Seq3       AB-DE
+Seq4       A--DE
